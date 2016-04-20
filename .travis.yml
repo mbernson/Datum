@@ -1,0 +1,4 @@
+language: objective-c # We need to specify ObjC even though this is a Swift project
+xcode_project: src/Datum.xcodeproj
+xcode_scheme: Datum
+osx_image: xcode7.3
